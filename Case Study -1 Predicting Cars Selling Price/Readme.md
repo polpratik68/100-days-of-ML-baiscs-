@@ -1,5 +1,5 @@
 
-<span style="color: blue;"> Predicting Cars Selling Price</span>
+                                                # Predicting Cars Selling Price
 
 
 ![image](https://github.com/polpratik68/100-days-of-ML-baiscs-/assets/132188237/c5777de2-986b-47e2-9f56-98ab07ea79b9)
