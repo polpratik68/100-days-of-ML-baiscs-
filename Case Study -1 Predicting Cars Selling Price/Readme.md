@@ -1,6 +1,6 @@
 
+![image](https://github.com/polpratik68/100-days-of-ML-baiscs-/assets/132188237/c5777de2-986b-47e2-9f56-98ab07ea79b9)
 
-![images](https://github.com/polpratik68/100-days-of-ML-baiscs-/assets/132188237/0cec539c-c053-4268-a00c-521b3b653ee8)
 
 
 
