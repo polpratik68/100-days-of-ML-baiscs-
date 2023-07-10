@@ -2,10 +2,9 @@
 
 
 <div style="text-align: center;">
-  ![Alt Text](![image](https://github.com/polpratik68/100-days-of-ML-baiscs-/assets/132188237/3dd4754d-016f-4096-88d7-409612dcec69)
-)
-</div>
+  ![image](https://github.com/polpratik68/100-days-of-ML-baiscs-/assets/132188237/3dd4754d-016f-4096-88d7-409612dcec69)
 
+</div>
 
 
 
